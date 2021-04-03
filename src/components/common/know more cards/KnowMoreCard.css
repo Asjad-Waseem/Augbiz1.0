@@ -1,0 +1,26 @@
+@media only screen and (max-width: 767px) {
+
+    .know__more__card {
+
+        margin-top: 20px;
+
+    }
+
+}
+
+.know__more__text {
+
+        font-size: 18px;
+        color: #2b2a35;
+        letter-spacing: 0.024em;
+
+}
+
+.know__more__link {
+
+    font-size: 14px;
+    font-weight: 700;
+    color: #334ac0;
+    letter-spacing: 0.023em;
+
+}
